@@ -1,0 +1,14 @@
+
+.donate {
+  text-align: center;
+}
+
+.donate a {
+  display: block;
+}
+
+.donate img {
+  width: 200px;
+  height: 100px;
+  border: none; 
+}
